@@ -1,31 +1,27 @@
 {
-    "name": "sentiment-analysis-app",
-    "version": "1.0.0",
-    "description": "A sentiment analysis web app",
-    "main": "index.js",
-    "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
-    },
-    "dependencies": {
-      "react": "^18.0.0",
-      "react-dom": "^18.0.0",
-      "react-scripts": "latest"
-    },
-    "devDependencies": {},
-    "engines": {
-      "node": ">=14"
-    },
-    "keywords": [],
-    "author": "Bikram",
-    "license": "MIT"
-  }
-    "homepage": "https://YOUR_USERNAME.github.io/sentiment-analysis-app",
-    "scripts": {
+  "name": "sentiment-analysis-app",
+  "version": "1.0.0",
+  "description": "A sentiment analysis web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  }
-
-  
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [],
+  "author": "Bikram",
+  "license": "MIT",
+  "homepage": "https://Bikram1407.github.io/sentiment-analysis-app"
+}
